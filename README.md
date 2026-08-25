@@ -1,3 +1,13 @@
+> **This is an unmodified fork** (identical to upstream). The content below is
+> upstream's, and this notice is the only Bit Pulse AI addition.
+>
+> - **Upstream:** [ruvnet/rUv-Enterprise-AI-Guide](https://github.com/ruvnet/rUv-Enterprise-AI-Guide), by rUv
+> - **Why it is here:** a reference we cite when discussing enterprise AI adoption sequencing. It is written for CIOs and technology leaders; it is not a security document and contains no controls.
+> - **Status:** reference copy, not maintained by Bit Pulse AI and not intended to diverge.
+> - **Vulnerabilities:** not applicable — this repository contains prose and a PDF, no executable code. For Prompt Shields products, email security@promptshields.com.
+
+---
+
 
 # The rUv Enterprise AI Guide
 [![The rUv Enterprise AI Guide](https://github.com/ruvnet/rUv-Enterprise-AI-Guide/blob/main/assets/intro.png?raw=true)](https://github.com/ruvnet/rUv-Enterprise-AI-Guide/blob/main/Strategic%20Enterprise%20AI%20Guide%20%20-%20v01.pdf)
